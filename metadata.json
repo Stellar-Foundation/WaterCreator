@@ -1,0 +1,6 @@
+{
+  "name": "Water Creator",
+  "description": "AI-Powered Social Media Command Center. Single-composer cross-platform creator, AI video studio with avatar presenters, and a unified analytics dashboard with personalized growth guides.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
